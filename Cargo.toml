@@ -1,6 +1,6 @@
 [package]
 name = "lime"
-version = "0.0000000000008"
+version = "0.0.1"
 edition = "2021"
 description = "A 2D game engine written in Rust"
 
